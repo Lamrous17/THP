@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\bin\Debug\TCP_Flowers_lb3.dll
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\bin\Debug\TCP_Flowers_lb3.pdb
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\obj\Debug\TCP_Flowers_lb3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\obj\Debug\TCP_Flowers_lb3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\obj\Debug\TCP_Flowers_lb3.csproj.CopyComplete
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\obj\Debug\TCP_Flowers_lb3.dll
+C:\Users\User\Desktop\Для университета\4 семестр\ТХП\Lab3\TCP_Flowers_lb3\obj\Debug\TCP_Flowers_lb3.pdb
